@@ -1,6 +1,7 @@
 # Reproductor de audio concurrente
 
 Reproductor de audio de línea de comandos en C con hilos POSIX, con gestión concurrente de la lista de reproducción. Proyecto del Parcial 2 de Sistemas Operativos (Alternativa 2: concurrencia y sincronización).
+
 Luis Fernando Bernal Ramirez
 
 **Video Explicativo:** https://drive.google.com/file/d/1t_h6fZQoqFwq74evQYUctDHJlfemfmmU/view?usp=sharing
